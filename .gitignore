@@ -1,0 +1,23 @@
+# Python stuff
+
+__pycache__/**
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Python virtual env
+.venv/**
+
+# Videos
+videos/**
+videos_copy/**
+videos_snd_training/**
+
+# Models
+**/*.keras
+
+# Pickles
+**/*.pickle
+
+
+
