@@ -10,8 +10,7 @@ __pycache__/**
 
 # Videos
 videos/**
-videos_copy/**
-videos_snd_training/**
+videos_atari/**
 
 # Models
 **/*.keras
