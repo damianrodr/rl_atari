@@ -17,6 +17,7 @@ videos_atari/**
 
 # Pickles
 **/*.pickle
+**/*.pkl
 
 
 
